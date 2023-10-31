@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+![645eea11-205d-4ce8-b029-07e1757c00b1](https://github.com/yogita1003745/react-halloween-app/assets/120160846/db32e383-05fa-4e15-a788-1bdefddeb704)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+![3f298b1f-fd16-4b88-a616-4da026a13c97](https://github.com/yogita1003745/react-halloween-app/assets/120160846/1477713d-5a3b-4f28-9d4e-516c01a0b3f3)
 
 ### `npm start`
 
