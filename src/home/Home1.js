@@ -7,7 +7,7 @@ const Home1 = ({ onBack }) => {
         <div
             className="min-h-screen flex items-center justify-center bg-white bg-cover bg-no-repeat bg-center"
             style={{
-                backgroundImage: 'url("/main-screen.jpg")',
+                backgroundImage: 'url("/test-4.jpg")',
             }}
         >
             <div className="p-8 rounded-lg shadow-lg absolute bg-black bg-opacity-75">
@@ -38,19 +38,11 @@ const Home1 = ({ onBack }) => {
                 </div>
                 <div>
                     <br />
-                    <h1 className="text-4xl font-extrabold text-[#ffc15e] mb-4 font-rampart">
+                    <h1 className="text-xl text-[#ffc15e] mb-4">
                         <span className=" block font-Algerian pb-3">
-                            Feel free to dress in costume....
+                        Your key to a night of eerie enchantment !
                         </span>
                     </h1>
-                </div>
-                <div className="flex items-end justify-end -mt-2.5">
-                    <button
-                        onClick={handleBack}
-                        className="bg-orange-500 text-black px-4 py-2 rounded-lg hover:bg-orange-600 "
-                    >
-                        Go Back
-                    </button>
                 </div>
             </div>
         </div>
